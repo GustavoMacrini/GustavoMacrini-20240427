@@ -1,3 +1,8 @@
+# Como rodar
+* Baixar o repositório
+* Usar o comando: docker-compose up
+* Usar o comando: dotnet ef database update
+
 # Sistema de Gestão de Colaboradores e Unidades em C# com PostgreSQL
 
 Este é um projeto de backend que implementa um Sistema de Gestão de Colaboradores e Unidades, utilizando o PostgreSQL como banco de dados.
