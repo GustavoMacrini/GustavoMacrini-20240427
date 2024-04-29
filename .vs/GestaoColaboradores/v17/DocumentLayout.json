@@ -1,0 +1,615 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\views\\unidades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:views\\unidades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\views\\unidades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:views\\unidades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\controllers\\unidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:controllers\\unidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\models\\colaborador\\unidadeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:models\\colaborador\\unidadeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\models\\colaborador\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:models\\colaborador\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\models\\colaborador\\colaboradorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:models\\colaborador\\colaboradorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\models\\colaborador\\unidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:models\\colaborador\\unidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\views\\colaboradores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:views\\colaboradores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\controllers\\colaboradorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:controllers\\colaboradorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\services\\unidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:services\\unidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\services\\colaboradorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:services\\colaboradorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\views\\colaboradores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:views\\colaboradores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\views\\colaboradores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:views\\colaboradores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\models\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:models\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\migrations\\20240428211136_addunidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:migrations\\20240428211136_addunidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|d:\\dotnet\\rodonaves avalia\u00E7\u00E3o\\teste mvc\\gestaocolaboradores\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759C40D-8933-444F-92CA-14A5AA91F234}|GestaoColaboradores.csproj|solutionrelative:models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 35,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:42:29.555Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnidadesController.cs",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Controllers\\UnidadesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UnidadesController.cs",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Controllers\\UnidadesController.cs",
+              "RelativeToolTip": "Controllers\\UnidadesController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:51:46.682Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Unidades\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Unidades\\Index.cshtml",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Unidades\\Index.cshtml",
+              "RelativeToolTip": "Views\\Unidades\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T17:39:25.346Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Models\\Colaborador\\Colaborador.cs",
+              "RelativeDocumentMoniker": "Models\\Colaborador\\Colaborador.cs",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Models\\Colaborador\\Colaborador.cs",
+              "RelativeToolTip": "Models\\Colaborador\\Colaborador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:26:51.849Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Unidade.cs",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Models\\Colaborador\\Unidade.cs",
+              "RelativeDocumentMoniker": "Models\\Colaborador\\Unidade.cs",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Models\\Colaborador\\Unidade.cs",
+              "RelativeToolTip": "Models\\Colaborador\\Unidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:45:40.698Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-04-29T04:45:01.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T00:18:44.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T00:18:34.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-27T17:11:17.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-27T17:11:23.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T00:59:57.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T01:00:03.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T13:04:19.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T23:47:04.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T00:54:12.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T00:56:39.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T04:26:59.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Unidades\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Unidades\\Create.cshtml",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Unidades\\Create.cshtml",
+              "RelativeToolTip": "Views\\Unidades\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T00:31:06.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ColaboradorViewModel.cs",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Models\\Colaborador\\ColaboradorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\Colaborador\\ColaboradorViewModel.cs",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Models\\Colaborador\\ColaboradorViewModel.cs",
+              "RelativeToolTip": "Models\\Colaborador\\ColaboradorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T22:44:25.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnidadeViewModel.cs",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Models\\Colaborador\\UnidadeViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\Colaborador\\UnidadeViewModel.cs",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Models\\Colaborador\\UnidadeViewModel.cs",
+              "RelativeToolTip": "Models\\Colaborador\\UnidadeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T03:41:26.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ColaboradoresController.cs",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Controllers\\ColaboradoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ColaboradoresController.cs",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Controllers\\ColaboradoresController.cs",
+              "RelativeToolTip": "Controllers\\ColaboradoresController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:13:04.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Colaboradores\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Colaboradores\\Create.cshtml",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Colaboradores\\Create.cshtml",
+              "RelativeToolTip": "Views\\Colaboradores\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T19:21:32.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Colaboradores\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Colaboradores\\Edit.cshtml",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Colaboradores\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Colaboradores\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T02:41:56.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wCcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:03:44.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UnidadeService.cs",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Services\\UnidadeService.cs",
+              "RelativeDocumentMoniker": "Services\\UnidadeService.cs",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Services\\UnidadeService.cs",
+              "RelativeToolTip": "Services\\UnidadeService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAMwBQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:56:26.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:41:32.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ColaboradorService.cs",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Services\\ColaboradorService.cs",
+              "RelativeDocumentMoniker": "Services\\ColaboradorService.cs",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Services\\ColaboradorService.cs",
+              "RelativeToolTip": "Services\\ColaboradorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:17:01.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Colaboradores\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Colaboradores\\Index.cshtml",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Colaboradores\\Index.cshtml",
+              "RelativeToolTip": "Views\\Colaboradores\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T19:10:29.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Edit.cshtml",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T16:59:49.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Views\\Users\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T15:00:48.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Models\\User\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User\\User.cs",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Models\\User\\User.cs",
+              "RelativeToolTip": "Models\\User\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T14:38:01.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240428211136_AddUnidade.cs",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Migrations\\20240428211136_AddUnidade.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240428211136_AddUnidade.cs",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Migrations\\20240428211136_AddUnidade.cs",
+              "RelativeToolTip": "Migrations\\20240428211136_AddUnidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T00:09:04.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:58:13.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T17:05:16.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:50:52.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Models\\Entity.cs",
+              "RelativeDocumentMoniker": "Models\\Entity.cs",
+              "ToolTip": "D:\\DotNet\\Rodonaves Avalia\u00E7\u00E3o\\Teste MVC\\GestaoColaboradores\\Models\\Entity.cs",
+              "RelativeToolTip": "Models\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T23:25:34.606Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 9,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
